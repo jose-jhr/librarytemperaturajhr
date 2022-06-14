@@ -28,6 +28,7 @@ allprojects {
   
   ![settingsgradle](https://user-images.githubusercontent.com/66834393/173482298-037dbbed-f8d1-4421-bdf0-9e38a53854fc.png)
   
-![dependencies](https://user-images.githubusercontent.com/66834393/173482550-72844779-9557-4a1f-9f06-df3558822327.png)
+![dependencies](https://user-images.githubusercontent.com/66834393/173483467-0baec9b0-81d4-451b-9b11-ce46308ad48a.png)
+
 
 ![maven](https://user-images.githubusercontent.com/66834393/173482552-49f0c974-c4d7-4502-b308-37609e9afe36.png)
