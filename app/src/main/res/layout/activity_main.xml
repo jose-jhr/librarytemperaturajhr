@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+
+    <com.ingenieriajhr.termometrojhr.TermometroJhr
+        android:layout_width="335dp"
+        android:layout_height="472dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:colorTemperatura="#EB0008"
+        app:colorTermometro="#000003"
+        app:offsetX="-35"
+        app:offsetY="-10"
+        app:textColorTemp="#3D5AFE"
+        app:textSizeTemp="30"
+        app:textTemp=" K"
+        android:layout_gravity="center"
+        app:textOn="true"
+        >
+    </com.ingenieriajhr.termometrojhr.TermometroJhr>
+
+
+
+</LinearLayout>
