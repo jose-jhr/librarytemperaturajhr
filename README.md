@@ -52,7 +52,7 @@ CODIGO DE EJEMPLO PARA LA UTILIZACIÓN DE ESTA LIBRERIA.
 
 activity_main.xml
 
- ```
+ ```xml
  <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -126,7 +126,7 @@ activity_main.xml
 
 MainActivity.kt
 
-```
+```kotlin
 package com.ingenieriajhr.termometroapp
 
 import androidx.appcompat.app.AppCompatActivity
